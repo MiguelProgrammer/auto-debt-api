@@ -58,8 +58,6 @@ If payment succeeds:
 
 # 🏗️ Final Architecture
 
-![VehicleCheckAPI Architecture](./docs/architecture.png)
-
 The platform is deployed on AWS EC2 using Docker Compose and follows a reactive microservices-oriented architecture with observability, external integrations, asynchronous notifications, and CI/CD automation.
 
 ## Core Components
