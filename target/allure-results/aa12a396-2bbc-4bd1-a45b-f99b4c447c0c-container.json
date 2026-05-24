@@ -1,0 +1,1 @@
+{"uuid":"aa12a396-2bbc-4bd1-a45b-f99b4c447c0c","name":"Should retrieve all products","children":["276a75b6-49c3-4bdb-a48e-455a2f68008a"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1779584564457,"stop":1779584564459}],"afters":[],"start":1779584564449,"stop":1779584565754}

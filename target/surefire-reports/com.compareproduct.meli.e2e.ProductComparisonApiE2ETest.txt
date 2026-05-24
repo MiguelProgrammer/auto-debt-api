@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.compareproduct.meli.e2e.ProductComparisonApiE2ETest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.60 s -- in com.compareproduct.meli.e2e.ProductComparisonApiE2ETest

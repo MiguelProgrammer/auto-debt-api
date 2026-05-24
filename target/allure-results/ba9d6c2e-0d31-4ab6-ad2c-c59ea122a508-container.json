@@ -1,0 +1,1 @@
+{"uuid":"ba9d6c2e-0d31-4ab6-ad2c-c59ea122a508","name":"Should return bad request for single product comparison","children":["164ac1f5-6cb7-4a0c-b6d2-66503fe80757"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1779584566711,"stop":1779584566711}],"afters":[],"start":1779584566702,"stop":1779584567119}

@@ -1,0 +1,1 @@
+-- No seed data is required. Vehicle debt, payment and report integrations are mocked in adapters.

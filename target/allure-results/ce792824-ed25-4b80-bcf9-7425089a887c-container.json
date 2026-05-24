@@ -1,0 +1,1 @@
+{"uuid":"ce792824-ed25-4b80-bcf9-7425089a887c","name":"Should return healthy status for application health check","children":["d704ef90-0741-4923-af6d-3d91aa475d84"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1779584567804,"stop":1779584567804}],"afters":[],"start":1779584567790,"stop":1779584568091}

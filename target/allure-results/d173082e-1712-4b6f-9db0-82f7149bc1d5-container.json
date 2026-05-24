@@ -1,0 +1,1 @@
+{"uuid":"d173082e-1712-4b6f-9db0-82f7149bc1d5","name":"Should handle invalid product creation gracefully","children":["976a4749-d85a-414f-b6e3-80bc1a12d79b"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1779584567268,"stop":1779584567268}],"afters":[],"start":1779584567261,"stop":1779584567420}

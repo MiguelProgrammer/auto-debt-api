@@ -1,0 +1,1 @@
+{"uuid":"0c7d1d36-03cf-4a7c-8835-e52e5fef5f2c","name":"Should create product successfully through complete API flow","children":["c0cc64af-728e-4a75-a7ab-4585de2a51f7"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1779584561594,"stop":1779584561856}],"afters":[],"start":1779584560663,"stop":1779584564429}

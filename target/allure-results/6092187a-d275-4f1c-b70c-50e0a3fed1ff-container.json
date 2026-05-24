@@ -1,0 +1,1 @@
+{"uuid":"6092187a-d275-4f1c-b70c-50e0a3fed1ff","name":"Should handle comparison of non-existing products gracefully","children":["e91f7849-a241-47df-ba43-2baac8c03ced"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1779584567132,"stop":1779584567132}],"afters":[],"start":1779584567122,"stop":1779584567253}

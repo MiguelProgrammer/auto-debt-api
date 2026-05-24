@@ -1,0 +1,3 @@
+com\compareproduct\meli\config\BaseUnitTest.class
+com\compareproduct\meli\config\BaseIntegrationTest.class
+com\compareproduct\meli\e2e\VehicleDebtApiE2ETest.class
